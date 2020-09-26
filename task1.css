@@ -1,0 +1,77 @@
+.box {
+    height: 90vh;
+    width: 380px;
+    margin: 2% auto;
+    background-color:#fff;
+}
+body{
+    background-color: #f2f2f2;
+}
+.welcome
+{
+    text-align: center;
+    position: relative;
+    top:70px;
+    color:#3A393B;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+.letter
+{
+    position: relative;
+    top:20px;
+}
+
+input{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: #b3b3b3; 
+}
+.email
+{
+    width:90%;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom:1px solid #999;
+    margin:60px 0;
+    outline:none;
+    background: transparent;
+    font-size: large;
+}
+.password
+{
+    width:90%;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom:1px solid #999;
+    outline:none;
+    background: transparent;
+    font-size: large;
+}
+.login
+{
+    position: relative;
+    top:40px;
+    width:80%;
+    border-radius:30px;
+    background-image: linear-gradient(to right,#69c5f7,#491577);
+    color: white;
+    height:50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 110px;
+    font-size: 15px;
+}
+span{
+    position: absolute;
+right: 35px;
+font-size: large;
+
+}
